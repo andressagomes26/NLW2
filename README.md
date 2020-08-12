@@ -9,7 +9,7 @@ O **Next Level Week 2** foi uma experiência online fornecida pela Rocketseat qu
 Em decorrência do dia do Dia Nacional dos Profissionais da Educação (6 de agosto) criou-se o projeto Proffy que trata-se de uma plataforma para conectar alunos e professores. 
 
 <p align="center">
-  <img width="700" height="500" src="https://raw.githubusercontent.com/Rocketseat/nlw-02-discovery/master/.github/proffy.png">
+  <img width="600" height="390" src="https://raw.githubusercontent.com/Rocketseat/nlw-02-discovery/master/.github/proffy.png">
 </p>
 
 ## Tecnologias
