@@ -23,8 +23,8 @@ Em decorrência do dia do Dia Nacional dos Profissionais da Educação (6 de ago
 
 ## Layout
 
-O layout do projeto acessado [aqui.](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web?node-id=0%3A1)
+- O layout do projeto acessado [aqui.](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web?node-id=0%3A1)
 
 ## Licença
-Esse projeto está sob a licença MIT.
+- MIT.
  
