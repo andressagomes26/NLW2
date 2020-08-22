@@ -3,7 +3,7 @@
 </p>
 
 # PROFFY | Next Level Week | Rocketseat
-O **Next Level Week 2** foi uma experiência online fornecida pela Rocketseat que ocorreu entre o período 03/08/2020 a 09/08/2020. Durante essa semana abordou-se diversas ferramentas para o desenvolvimento Web, entre as quais teve-se destaque a tríade HTML, CSS e JavaScript, além da manipulação de dados pelo SQLite. Desse modo, o método baseado em três pilares (Prática, Foco e Grupo) auxilia os participantes a acelerarem a sua evolução e entender o seu contexto e objetivos.
+O **Next Level Week 2** foi uma experiência online ministrada pela Rocketseat que ocorreu entre o período 03/08/2020 a 09/08/2020. Durante essa semana abordou-se diversas ferramentas para o desenvolvimento Web, entre as quais teve-se destaque a tríade HTML, CSS e JavaScript, além da manipulação de dados pelo SQLite. Desse modo, o método baseado em três pilares (Prática, Foco e Grupo) auxilia os participantes a acelerarem a sua evolução e entender o seu contexto e objetivos.
 
 ## Sobre o Projeto
 Em decorrência do dia do Dia Nacional dos Profissionais da Educação (6 de agosto) criou-se o projeto Proffy que trata-se de uma plataforma online para conectar alunos e professores. 
